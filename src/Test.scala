@@ -3,4 +3,5 @@
  */
 object Test {
   println("This is a test for idea-project-to-github")
+  println("ttest")
 }
