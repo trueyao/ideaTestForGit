@@ -6,5 +6,5 @@ object Test {
   println("ttest")
   println("Now,I am working on branch dev")
   println("Now,I am working on branch dev2")
-  println("Work on branch master and feature2")
+  println("fix bug on issue1")
 }
