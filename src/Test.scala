@@ -7,5 +7,4 @@ object Test {
   println("Now,I am working on branch dev")
   println("Now,I am working on branch dev2")
   println("fix bug on issue1")
-
 }
