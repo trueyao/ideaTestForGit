@@ -7,4 +7,5 @@ object Test {
   println("Now,I am working on branch dev")
   println("Now,I am working on branch dev2")
   println("Work on branch master and feature2")
+  println("Work on another branch dev")
 }
