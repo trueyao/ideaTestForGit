@@ -9,4 +9,5 @@ object Test {
   println("fix bug on issue1")
   println("another branch dev2")
   println("I change core.autocrl from true to input for keeping LF everywhere")
+  println("later,I will pull it,and see if it conver to LF")
 }
