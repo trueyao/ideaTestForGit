@@ -14,4 +14,5 @@ object Test {
   println("pull test")
   println("change test.scala to LF manually")
   println("input option is done,now test true")
+  println("This LF file will be conver to CRLF when pull from local ?")
 }
