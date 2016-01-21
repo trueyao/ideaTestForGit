@@ -13,4 +13,5 @@ object Test {
   println("prev try failed,now I set core.eol from native(default) to lf,lets see")
   println("pull test")
   println("change test.scala to LF manually")
+  println("input option is done,now test true")
 }
