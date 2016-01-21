@@ -10,4 +10,5 @@ object Test {
   println("another branch dev2")
   println("I change core.autocrl from true to input for keeping LF everywhere")
   println("later,I will pull it,and see if it conver to LF")
+  println("prev try failed,now I set core.eol from native(default) to lf,lets see")
 }
