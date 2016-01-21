@@ -16,4 +16,5 @@ object Test {
   println("input option is done,now test true")
   println("This LF file will be conver to CRLF when pull from local ?")
   println("now set core.eol to lf again")
+  println("core.eol is true and core.autocrlf is true,what will happen")
 }
