@@ -15,4 +15,5 @@ object Test {
   println("change test.scala to LF manually")
   println("input option is done,now test true")
   println("This LF file will be conver to CRLF when pull from local ?")
+  println("now set core.eol to lf again")
 }
