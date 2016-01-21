@@ -8,4 +8,5 @@ object Test {
   println("Now,I am working on branch dev2")
   println("fix bug on issue1")
   println("another branch dev2")
+  println("I change core.autocrl from true to input for keeping LF everywhere")
 }
