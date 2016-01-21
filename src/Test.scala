@@ -12,4 +12,5 @@ object Test {
   println("later,I will pull it,and see if it conver to LF")
   println("prev try failed,now I set core.eol from native(default) to lf,lets see")
   println("pull test")
+  println("change test.scala to LF manually")
 }
